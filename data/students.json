@@ -1,0 +1,189 @@
+{
+  "STU-00000001": {
+    "student_id": "STU-00000001",
+    "name": "Ali Hassan",
+    "age": 20,
+    "grade": "A",
+    "subject": "Mathematics",
+    "marks": 92.5,
+    "email": "ali.hassan@example.com",
+    "performance": "Excellent",
+    "created_at": "2024-01-10 09:00:00"
+  },
+  "STU-00000002": {
+    "student_id": "STU-00000002",
+    "name": "Fatima Zahra",
+    "age": 19,
+    "grade": "B",
+    "subject": "Physics",
+    "marks": 78.0,
+    "email": "fatima.z@example.com",
+    "performance": "Good",
+    "created_at": "2024-01-11 10:30:00"
+  },
+  "STU-00000003": {
+    "student_id": "STU-00000003",
+    "name": "Usman Malik",
+    "age": 21,
+    "grade": "C",
+    "subject": "Chemistry",
+    "marks": 61.5,
+    "email": "usman.m@example.com",
+    "performance": "Average",
+    "created_at": "2024-01-12 11:00:00"
+  },
+  "STU-00000004": {
+    "student_id": "STU-00000004",
+    "name": "Ayesha Siddiqui",
+    "age": 18,
+    "grade": "A",
+    "subject": "Computer Science",
+    "marks": 95.0,
+    "email": "ayesha.s@example.com",
+    "performance": "Excellent",
+    "created_at": "2024-01-13 08:45:00"
+  },
+  "STU-00000005": {
+    "student_id": "STU-00000005",
+    "name": "Bilal Ahmed",
+    "age": 22,
+    "grade": "D",
+    "subject": "Biology",
+    "marks": 42.0,
+    "email": "bilal.a@example.com",
+    "performance": "Below Average",
+    "created_at": "2024-01-14 14:00:00"
+  },
+  "STU-00000006": {
+    "student_id": "STU-00000006",
+    "name": "Zara Khan",
+    "age": 20,
+    "grade": "B",
+    "subject": "English",
+    "marks": 83.5,
+    "email": "zara.k@example.com",
+    "performance": "Good",
+    "created_at": "2024-01-15 09:20:00"
+  },
+  "STU-00000007": {
+    "student_id": "STU-00000007",
+    "name": "Hamza Rauf",
+    "age": 23,
+    "grade": "F",
+    "subject": "Statistics",
+    "marks": 28.0,
+    "email": "hamza.r@example.com",
+    "performance": "Failing",
+    "created_at": "2024-01-16 13:00:00"
+  },
+  "STU-00000008": {
+    "student_id": "STU-00000008",
+    "name": "Sana Mir",
+    "age": 19,
+    "grade": "A",
+    "subject": "Economics",
+    "marks": 89.5,
+    "email": "sana.m@example.com",
+    "performance": "Excellent",
+    "created_at": "2024-01-17 10:00:00"
+  },
+  "STU-27434946": {
+    "student_id": "STU-27434946",
+    "name": "steve",
+    "age": 16,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 97.0,
+    "email": "samichohan525@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-04-27 20:31:27"
+  },
+  "STU-30643540": {
+    "student_id": "STU-30643540",
+    "name": "Adil Tauseef",
+    "age": 17,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 75.0,
+    "email": "AdilTauseef@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-04-27 20:36:30"
+  },
+  "STU-00504243": {
+    "student_id": "STU-00504243",
+    "name": "Mubbashir",
+    "age": 17,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 80.0,
+    "email": "Mubbashir@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-04-27 20:39:00"
+  },
+  "STU-39644532": {
+    "student_id": "STU-39644532",
+    "name": "Ghulam Mustafa",
+    "age": 18,
+    "grade": "A",
+    "subject": "Commerce",
+    "marks": 82.0,
+    "email": "Ghulam@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-04-27 20:42:39"
+  },
+  "STU-28849721": {
+    "student_id": "STU-28849721",
+    "name": "Mohammad Shaheer",
+    "age": 18,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 76.0,
+    "email": "Shaheer@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-04-27 20:43:28"
+  },
+  "STU-43028712": {
+    "student_id": "STU-43028712",
+    "name": "ahmed",
+    "age": 16,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 98.0,
+    "email": "ahmed@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-05-02 17:09:43"
+  },
+  "STU-30080810": {
+    "student_id": "STU-30080810",
+    "name": "hadishah",
+    "age": 14,
+    "grade": "B",
+    "subject": "science",
+    "marks": 68.0,
+    "email": "hadi@gmail.com",
+    "performance": "Good",
+    "created_at": "2026-05-03 21:41:30"
+  },
+  "STU-12077811": {
+    "student_id": "STU-12077811",
+    "name": "Ubaid Shapater roll",
+    "age": 6,
+    "grade": "F",
+    "subject": "hafiz bhai",
+    "marks": 10.0,
+    "email": "ubaid@gmail.combabubhai",
+    "performance": "Failing",
+    "created_at": "2026-05-05 10:44:12"
+  },
+  "STU-19591563": {
+    "student_id": "STU-19591563",
+    "name": "steveharrington",
+    "age": 21,
+    "grade": "A",
+    "subject": "Science",
+    "marks": 100.0,
+    "email": "steve@gmail.com",
+    "performance": "Excellent",
+    "created_at": "2026-05-24 20:09:19"
+  }
+}

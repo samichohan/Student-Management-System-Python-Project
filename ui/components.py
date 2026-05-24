@@ -44,7 +44,7 @@ def display_students_table(students: list[Student], title: str = "Students"):
         }
         return colors.get(val, "")
 
-    styled = df.style.applymap(color_performance, subset=["Performance"])
+    styled = df.style.map(color_performance, subset=["Performance"])
     st.dataframe(styled, use_container_width=True, hide_index=True)
 
 

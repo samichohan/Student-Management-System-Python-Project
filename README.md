@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Management System
 
 A complete Student Management System built with **Python OOP** and **Streamlit**.
@@ -54,3 +55,6 @@ All data is saved in `data/students.json` automatically. 8 sample students are i
 | Grade   | A, B, C, D, or F |
 | Marks   | 0 – 100 |
 | Email   | Must contain @ and domain |
+=======
+# Student-Management-System-Project
+>>>>>>> 307895e72e9d0f7e5cec30462b903a41611c500d

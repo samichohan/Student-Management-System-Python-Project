@@ -3,6 +3,8 @@
 
 A complete Student Management System built with **Python OOP** and **Streamlit**.
 
+Live App: https://student-management-system-python-project.streamlit.app/
+
 ## 📁 Project Structure
 
 ```
